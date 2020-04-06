@@ -1,0 +1,14 @@
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\bin\Debug\netcoreapp2.1\Sensores_API.deps.json
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\bin\Debug\netcoreapp2.1\Sensores_API.runtimeconfig.json
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\bin\Debug\netcoreapp2.1\Sensores_API.runtimeconfig.dev.json
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\bin\Debug\netcoreapp2.1\Sensores_API.dll
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\bin\Debug\netcoreapp2.1\Sensores_API.pdb
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.RazorAssemblyInfo.cache
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.RazorAssemblyInfo.cs
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.AssemblyInfo.cs
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.RazorTargetAssemblyInfo.cache
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.dll
+C:\Users\henri\source\repos\Sensores_API\Sensores_API\obj\Debug\netcoreapp2.1\Sensores_API.pdb
